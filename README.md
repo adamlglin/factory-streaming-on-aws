@@ -43,4 +43,4 @@ By combining AWS services, we can:
 Adam Lin  
 Industrial Product PM | AWS Learner | Passionate about cloud transformation for manufacturing  
 📧 adam.lg.lin@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/adamlin1003/) • [GitHub](https://github.com/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/adamlin1003/) • [GitHub](https://github.com/adamlglin)
