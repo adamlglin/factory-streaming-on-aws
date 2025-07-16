@@ -1,4 +1,3 @@
-# factory-streaming-on-aws
 # 🏭 Real-Time Factory Data Streaming System on AWS
 
 ## 🔍 Business Background
