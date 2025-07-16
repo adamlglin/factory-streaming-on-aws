@@ -5,6 +5,11 @@ In traditional manufacturing settings, monitoring temperature, gas flow, or vibr
 
 This project proposes an AWS-based architecture that enables real-time data streaming, analysis, and visualization — optimized for industrial applications like gas supply monitoring or equipment maintenance.
 
+## 🧠 Problem Statement
+- Man-power shortage in factory → more incidents happened
+- Extreme weather → parameter control (temparature/humidity)
+- Higher cost in human/materials → streamline the processes
+
 ## 🎯 Objectives
 - Real-time ingestion of IoT sensor data (e.g. pressure, temperature)
 - Stream processing and simple alerting logic
