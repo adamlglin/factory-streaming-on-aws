@@ -21,7 +21,7 @@ This project proposes an AWS-based architecture that enables real-time data stre
 | Permissions | AWS IAM |
 
 ## 📐 Architecture Diagram
-[![Architecture Diagram](./architecture.png)](./architecture.png)  
+[![Architecture Diagram](./Architecture.png)](./architecture.png)  
 _A simple IoT → Kinesis → Lambda → Storage → Dashboard flow_
 
 ## 🚀 Deployment Plan (Coming Soon)
