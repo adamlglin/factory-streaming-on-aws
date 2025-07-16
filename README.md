@@ -18,7 +18,7 @@ This project proposes an AWS-based architecture that enables real-time data stre
 | Real-time Processing | AWS Lambda |
 | Data Storage | Amazon S3, DynamoDB |
 | Visualization | Amazon QuickSight |
-| Permissions | AWS IAM |
+| Permissions | AWS IAM, SCPs |
 
 ## 📐 Architecture Diagram
 [![Architecture Diagram](./Architecture.png)](./architecture.png)  
